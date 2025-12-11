@@ -19,6 +19,7 @@ import com.codegnan.hms.hmsapp.service.VisitService;
 
 @RestController
 @RequestMapping("/doctor")
+
 public class DoctorController {
 	
 	//Akhil Vishal
