@@ -22,6 +22,7 @@ import com.codegnan.hms.hmsapp.service.VisitService;
 public class DoctorController {
 	
 	//Akhil Vishal
+	//munnaa BhAIYA
 	// REQUire the objects of DoctorService,VisitService
 	private final DoctorService docser;
 	private final VisitService visitser;
