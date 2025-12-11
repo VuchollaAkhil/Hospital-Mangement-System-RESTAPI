@@ -20,7 +20,8 @@ import com.codegnan.hms.hmsapp.service.VisitService;
 @RestController
 @RequestMapping("/doctor")
 public class DoctorController {
-
+	
+	//Akhil Vishal
 	// REQUire the objects of DoctorService,VisitService
 	private final DoctorService docser;
 	private final VisitService visitser;
